@@ -1,6 +1,13 @@
 # Puppeteer Screenshot demo
 
-If you clone this repository, edit `screenshot.js` with your chosen website, and then run this command in your terminal:
+Quickly screenshot a website and save it to .png and .pdf files.
+
+## How to run
+
+1. Clone the repository
+2. Run `npm install` in your terminal
+3. Edit `screenshot.js` with your chosen website (optional)
+4. Run in your terminal:
 
 ```bash
 node screenshot.js https://cassidoo.co
